@@ -1,5 +1,6 @@
-from typing import List
-# program to remove all occurences of a given value in an array provided order should not change
+#Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. 
+#The order of the elements may be changed. Then return the number of elements in nums which are not equal to val.from typing import List
+
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
 

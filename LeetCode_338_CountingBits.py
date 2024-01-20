@@ -1,4 +1,3 @@
-
 class Solution {
     public int[] countBits(int n) {
         int[] result = new int[n + 1];
